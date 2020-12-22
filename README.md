@@ -1,2 +1,2 @@
 # hello-world
-Learning to use GitHub
+Hi, I am Abhinaya pursuing Computer Engineering at Nanyang Technological University!
